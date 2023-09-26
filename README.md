@@ -1,6 +1,9 @@
+# Here is the client view of the project:
+
+![IMG_4653](https://github.com/poojito/ReactStockTracker/assets/75807751/c45bf384-cda1-4f3e-a555-1aefae42a2df)
 
 
-
+# Below are standard instructions on how use a React app:
 
 
 
