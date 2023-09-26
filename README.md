@@ -1,11 +1,5 @@
 
 
-<img width="383" alt="Screenshot 2023-09-25 at 11 18 29 PM" src="https://github.com/poojito/ReactStockTracker/assets/75807751/884ab246-8156-4963-99bb-3b686ceb7efb">
-
-
-
-
-
 
 
 
