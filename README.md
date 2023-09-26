@@ -1,3 +1,15 @@
+
+
+<img width="348" alt="Screenshot 2023-09-25 at 11 17 48 PM" src="https://github.com/poojito/ReactStockTracker/assets/75807751/eb4b56f3-14b7-482e-98fb-4d47fb31c895">
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
